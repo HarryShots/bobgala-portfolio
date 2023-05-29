@@ -31,17 +31,17 @@ const About = () => {
             <article className='about__card'>
               <FiUsers className='about__icon'/>
               <h5>Clients</h5>
-              <small>200+ Worldwide</small>
+              <small>50+ Nationwide</small>
             </article>
 
             <article className='about__card'>
               <VscFolderLibrary className='about__icon'/>
               <h5>Projects</h5>
-              <small>80+ Completed Projects</small>
+              <small>30+ Completed Projects</small>
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sed, earum deleniti magni cupiditate consequatur, explicabo doloremque minus numquam accusamus tenetur magnam perferendis! Nostrum cum natus voluptates laboriosam, omnis non animi!
+            I am a young Cameroonian with passion for photography. Editing photos and videos has become my primary skill through working with diverse people on diverse occasions. Patience, trust and understanding are what keep me going. So, trust the process!            
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
