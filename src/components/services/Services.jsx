@@ -11,33 +11,29 @@ const Services = () => {
       <div className="container services__container">
         <article className='service'>
           <div className='service__head'>
-            <h3>UI/UX Design</h3>
+            <h3>Content Creation</h3>
           </div>
 
           <ul className='service__list'>
             <li>
             <MdOutlineLibraryAddCheck className='service__list-icon' />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum exercitationem dolor similique voluptates eligendi, corrupti totam veritatis assumenda, ipsam corporis officia nobis hic inventore esse minima doloribus ducimus excepturi ad?</p>
+            <p>Creating content for your social media pages like TikTok, Instagram, Facebook</p>
             </li>
             <li>
             <MdOutlineLibraryAddCheck className='service__list-icon' />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum exercitationem dolor similique voluptates eligendi, corrupti totam veritatis assumenda, ipsam corporis officia nobis hic inventore esse minima doloribus ducimus excepturi ad?</p>
+            <p>I create content that captivates and engages.</p>
             </li>
             <li>
             <MdOutlineLibraryAddCheck className='service__list-icon' />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum exercitationem dolor similique voluptates eligendi, corrupti totam veritatis assumenda, ipsam corporis officia nobis hic inventore esse minima doloribus ducimus excepturi ad?</p>
+            <p>I can help you reach your target audience with engaging content.</p>
             </li>
             <li>
             <MdOutlineLibraryAddCheck className='service__list-icon' />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum exercitationem dolor similique voluptates eligendi, corrupti totam veritatis assumenda, ipsam corporis officia nobis hic inventore esse minima doloribus ducimus excepturi ad?</p>
-            </li>
-            <li>
-            <MdOutlineLibraryAddCheck className='service__list-icon' />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum exercitationem dolor similique voluptates eligendi, corrupti totam veritatis assumenda, ipsam corporis officia nobis hic inventore esse minima doloribus ducimus excepturi ad?</p>
+            <p>I'm a creative thinker who can come up with original ideas.</p>
             </li>
           </ul>
         </article>
-        { /*END OF UI/UX*/ }
+        { /*END OF CONTENT CREATION*/ }
 
         <article className='service'>
           <div className='service__head'>
@@ -47,53 +43,45 @@ const Services = () => {
           <ul className='service__list'>
             <li>
             <MdOutlineLibraryAddCheck className='service__list-icon' />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum exercitationem dolor similique voluptates eligendi, corrupti totam veritatis assumenda, ipsam corporis officia nobis hic inventore esse minima doloribus ducimus excepturi ad?</p>
+            <p>I build websites that are both beautiful and functional.</p>
             </li>
             <li>
             <MdOutlineLibraryAddCheck className='service__list-icon' />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum exercitationem dolor similique voluptates eligendi, corrupti totam veritatis assumenda, ipsam corporis officia nobis hic inventore esse minima doloribus ducimus excepturi ad?</p>
+            <p>I'm a web developer who loves to create user-friendly experiences.</p>
             </li>
             <li>
             <MdOutlineLibraryAddCheck className='service__list-icon' />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum exercitationem dolor similique voluptates eligendi, corrupti totam veritatis assumenda, ipsam corporis officia nobis hic inventore esse minima doloribus ducimus excepturi ad?</p>
+            <p>I'm passionate about using technology to solve problems.</p>
             </li>
             <li>
             <MdOutlineLibraryAddCheck className='service__list-icon' />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum exercitationem dolor similique voluptates eligendi, corrupti totam veritatis assumenda, ipsam corporis officia nobis hic inventore esse minima doloribus ducimus excepturi ad?</p>
-            </li>
-            <li>
-            <MdOutlineLibraryAddCheck className='service__list-icon' />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum exercitationem dolor similique voluptates eligendi, corrupti totam veritatis assumenda, ipsam corporis officia nobis hic inventore esse minima doloribus ducimus excepturi ad?</p>
+            <p>I'm a detail-oriented web developer who takes pride in my work.</p>
             </li>
           </ul>
         </article>
-        { /*END OF WEB DEVWLOPMENT*/ }
+        { /*END OF WEB DEVELOPMENT*/ }
 
         <article className='service'>
           <div className='service__head'>
-            <h3>Photography</h3>
+            <h3>Photography/Videography</h3>
           </div>
 
           <ul className='service__list'>
             <li>
             <MdOutlineLibraryAddCheck className='service__list-icon' />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum exercitationem dolor similique voluptates eligendi, corrupti totam veritatis assumenda, ipsam corporis officia nobis hic inventore esse minima doloribus ducimus excepturi ad?</p>
+            <p>I take ordinary moments and turn them into extraordinary memories.</p>
             </li>
             <li>
             <MdOutlineLibraryAddCheck className='service__list-icon' />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum exercitationem dolor similique voluptates eligendi, corrupti totam veritatis assumenda, ipsam corporis officia nobis hic inventore esse minima doloribus ducimus excepturi ad?</p>
+            <p>I cover events such as weddings, birthdays, funerals, graduations and all ceremonies.</p>
             </li>
             <li>
             <MdOutlineLibraryAddCheck className='service__list-icon' />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum exercitationem dolor similique voluptates eligendi, corrupti totam veritatis assumenda, ipsam corporis officia nobis hic inventore esse minima doloribus ducimus excepturi ad?</p>
+            <p>I also offer creative photos and videos for your business adverts.</p>
             </li>
             <li>
             <MdOutlineLibraryAddCheck className='service__list-icon' />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum exercitationem dolor similique voluptates eligendi, corrupti totam veritatis assumenda, ipsam corporis officia nobis hic inventore esse minima doloribus ducimus excepturi ad?</p>
-            </li>
-            <li>
-            <MdOutlineLibraryAddCheck className='service__list-icon' />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum exercitationem dolor similique voluptates eligendi, corrupti totam veritatis assumenda, ipsam corporis officia nobis hic inventore esse minima doloribus ducimus excepturi ad?</p>
+            <p>I'm always looking for new ways to push the boundaries of photography/videography.</p>
             </li>
           </ul>
         </article>
